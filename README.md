@@ -8,6 +8,7 @@ Description
 -----------
 
 SMB2/3 client implementation.
+Forked to update packages.
 
 Installation
 ------------
